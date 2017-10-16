@@ -12,6 +12,13 @@ Elaborer des pistes de design graphiques sous forme de tuiles graphiques pour le
 
 Le site s'adresse aux passionnés de romans de science-fiction et tous les lecteurs en général.
 
-Objectifs : Proposer des déclinaisons de pistes graphiques de futurs designs qui permettent de rentre compte 
+Objectif : Proposer des déclinaisons de pistes graphiques de futurs designs qui permettent de rentre compte de l'allure du               futur site.
 
-4)les références de trouvées lors de vos recherches créatives (rédactionnel, design, UI, typo, couleurs, etc.).
+Limite : Les tuiles graphiques ne sont que des illustrations du site, elles donnent seulement une idée de l'ambiance générale.
+
+                                                4) REFERENCES
+                                                
+http://www.youscribe.com/catalogue/tous/litterature/romans-et-nouvelles/
+http://www.roman-historique.fr/
+http://www.livredepoche.com/
+
