@@ -2,11 +2,11 @@
 
 1) NOM DU PROJET
 
-Dream Shop, le nom du projet allie le terme de "rêve" qui découle du domaine de la science-fiction et le fait que le site offre des 
+Dream Shop, le nom du projet allie le terme de "rêve" qui découle du domaine de la science-fiction et le fait que le site offre un catalogue de romans.
 
 
 
-2) Contacts (ne notez pas d'informations privées si le document est publique)
+2) Contacts
 
 
 3) Contexte du projet, une synthèse du projet web du client;
