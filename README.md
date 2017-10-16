@@ -2,7 +2,7 @@
 
 1) Le nom du projet
 
-
+Dream Shop, le nom du projet allie le terme de "rêve"
 
 
 
