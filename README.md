@@ -1,8 +1,8 @@
 # tuile.graphique
 
-1) Le nom du projet
+1) NOM DU PROJET
 
-Dream Shop, le nom du projet allie le terme de "rêve"
+Dream Shop, le nom du projet allie le terme de "rêve" qui découle du domaine de la science-fiction et le fait que le site offre des 
 
 
 
