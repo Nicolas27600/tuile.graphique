@@ -1,10 +1,10 @@
 # tuile.graphique
 
-1) NOM DU PROJET
+                                                1) NOM DU PROJET
 
-        Dream Shop; Le nom du projet allie le terme de "rêve" qui découle du domaine de la science-fiction et le fait que le           site offre un catalogue de romans.
+Dream Shop; Le nom du projet allie le terme de "rêve" qui découle du domaine de la science-fiction et le fait que le           site offre un catalogue de romans.
 
-2) CONTEXTE DU PROJET
+                                                2) CONTEXTE DU PROJET
 
 Formalisez des pistes de design graphiques sous forme de tuiles graphiques pour le futur webdesign d'un petit site publiant des romans de science-fiction.
 
